@@ -3,3 +3,22 @@ data is just collection of facts, like color,images,names,numbers,etc
 
 what is data science?
 when we finding insights from raw data because we want to solve business problem or any problem which we solve through the data that type of field called data science .
+
+Data science lifecycle
+- Data Acuisition
+    - getting data from multiple sources.
+    - store all the data in central storage or in data warehouse.
+    - we get problem statement
+    - after saw the problem statement we acquire data related problem
+    - after collecting the data we convert untidy data to tidy data
+- Data pre processing //exploratory data analysis
+    - Data manipulation
+    - Data visualization
+- Machine Learning algorithm //depends on our problem and after execution it returns the result
+    - classification
+    - regression
+    - clustering
+- Pattern evaluation //verify the result
+- Knowledge representation //data present to client using Bi tools like power bi,tableu.
+ 
+
