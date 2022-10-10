@@ -1,0 +1,5 @@
+what is data?
+data is just collection of facts, like color,images,names,numbers,etc
+
+what is data science?
+when we finding insights from raw data because we want to solve business problem or any problem which we solve through the data that type of field called data science .
