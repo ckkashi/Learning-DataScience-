@@ -1,0 +1,4 @@
+Statistics
+Type of data found
+- categorical
+- numerical

@@ -20,5 +20,14 @@ Data science lifecycle
     - clustering
 - Pattern evaluation //verify the result
 - Knowledge representation //data present to client using Bi tools like power bi,tableu.
- 
+
+Categories of Machine Learning
+- Super vised Learning //finding relationship between x and y
+    - regression //dependant variable remains numerical
+    - classification //dependant variable remains categorical in nature
+- Unsuper vised Learning
+    - clustering
+        -high intra cluster similarities
+        -high inter cluster disimilarities
+
 
